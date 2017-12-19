@@ -2,7 +2,7 @@
 Projeto Da Video Aula de Eduardo Pires Sobre DDD (https://www.youtube.com/watch?v=i9Il79a2uBU)
 
 Pacote Instalados
-NugeTools
+NuGet
 
 Install-Package EntityFramework (Projeto: Infa.Data) (Versao EntityFramework.6.1.3)
 
